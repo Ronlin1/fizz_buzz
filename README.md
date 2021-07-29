@@ -13,3 +13,5 @@ For example, a typical round of fizz buzz would start as follows:
 Fizz buzz (often spelled FizzBuzz in this context) has been used as an interview screening device for computer programmers.
 Writing a program to output the first 100 FizzBuzz numbers is a trivial problem.
 It's now an interview question designed to help filter out the 99.5% of programming job candidates who can't seem to program their way out of a wet paper bag.
+
+Can check out on internet for more about fizzbuzz
